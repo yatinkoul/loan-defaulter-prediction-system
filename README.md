@@ -55,7 +55,9 @@ people in different stages may contain totally different mindset and living habi
 # Dataset Description
 
 Data Source: http://archive.ics.uci.edu/ml/datasets/Bank+Marketing
+
 Dataset Name:  Bank Marketing Dataset
+
 Dataset Domain: Business (Banking)
-The data is related to direct marketing campaigns (phone calls) of a Portuguese banking
-institution. It is a multivariate dataset with 45211 instances and 17 attributes, which gives a total
+
+The data is related to direct marketing campaigns (phone calls) of a Portuguese banking institution. It is a multivariate dataset with 45211 instances and 17 attributes, which gives a total of 768,587 data points.
